@@ -10,6 +10,6 @@
 - 憑藉著屬性克制捶爆低能吃素仔的雙刀劍士
 
 <a href="https://github.com/sky9154">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=6" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=6"/>
 </a>
