@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/858423378029314088/899745064220254228/IMG_E3915.jpg">
+<img src="https://cdn.discordapp.com/attachments/848806108172255255/899735875586514944/image0.gif">
 
 <h2> Hey there! I'm oF.</h2>
 
