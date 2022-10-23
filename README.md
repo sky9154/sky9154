@@ -1,4 +1,4 @@
-<img src="./image.jpg">
+<img src="./main.jpg">
 
 <h2>Hi, I'm oF.</h2>
 
