@@ -1,7 +1,5 @@
 <img src="./main.jpg">
 
-<h2>Hi, I'm oF.</h2>
-
 <h3>About Me </h3>
 
 - 生於 2002 年，居住於桃園市中壢區，未婚
