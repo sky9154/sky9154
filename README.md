@@ -1,41 +1,38 @@
-<img src="./main.jpg">
-
-<h3>About Me </h3>
+<h1>About Me </h1>
 
 - 生於 2002 年，居住於桃園市中壢區，未婚
 - 立志成為一名優秀的吃素異類反抗軍
 - 擅長左手熱狗右手雞排的雙刀流劍法
 - 憑藉著屬性克制捶爆低能吃素仔的雙刀劍士
 
-<h3>Languages and Tools</h3>
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git" height="40"/> 
-  </a>
-  <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" width="40" alt="github" height="40"/>
-</p>
+<h2>&#128296; Tech Stack</h2>
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=css,HTML"/>
-</div>
+<h3>Languages</h3>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+
+<h3>Tools</h3>
+<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
+
+<h3>DB</h3>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/ArangoDB-DDE072?logo=ArangoDB&logoColor=white&style=for-the-badge" />
+
+<h2>&#128202; GitHub Stats</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sky9154&theme=nord&row=1" /><br />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=css,HTML"/>
+
+<img src="./wave.svg"/>
