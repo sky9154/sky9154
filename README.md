@@ -1,4 +1,4 @@
-<h1>About Me </h1>
+<h1>&#128214; About Me</h1>
 
 <p>
   Hi, there👋! I'm oF.<br />
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/jetbrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/qmk-333333?logo=qmk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=for-the-badge" />
 </span>
 
