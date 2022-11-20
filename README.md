@@ -1,11 +1,12 @@
 <h1>About Me </h1>
 
-<ul>
-  <li>生於 2002 年，居住於桃園市中壢區，未婚</li>
-  <li>立志成為一名優秀的吃素異類反抗軍</li>
-  <li>擅長左手熱狗右手雞排的雙刀流劍法</li>
-  <li>憑藉著屬性克制捶爆低能吃素仔的雙刀劍士</li>
-</ul>
+<p>
+  Hi, there👋! I'm oF.<br />
+  Welcome to my personal website.<br />
+  I'm a junior majoring in ICE.<br />
+  And I have worked for Andor Ltd.<br />
+  Specialty is Frontend Development.
+</p>
 
 <h2>&#128296; Tech Stack</h2>
 
@@ -59,5 +60,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=css,HTML" />
 </span>
-
-<img src="wave.svg" />
