@@ -57,5 +57,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sky9154&theme=nord&row=1" />
   <br />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=css,HTML" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
 </span>
