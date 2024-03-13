@@ -1,11 +1,13 @@
 <h1>&#128214; About Me</h1>
 
 <p>
-  Hi, there👋! I'm oF.<br />
-  Welcome to my personal website.<br />
-  I'm a junior majoring in ICE.<br />
-  And I have worked for Andor Ltd.<br />
-  Specialty is Frontend Development.
+  Hi, there👋! I'm oF. <br />
+  Welcome to my personal website. <br />
+  I'm a senior majoring in ICE. <br />
+  I have worked as a full-stack engineer. <br />
+  For Andor Ltd. and Getvision Information Ltd. <br />
+  With one year or more of work experience. <br />
+  Specialty is web development.
 </p>
 
 <h2>&#128296; Tech Stack</h2>
