@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE !&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20oF!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE%20!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20oF%20!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub !" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub !" />
 </p>
 
 <h1>&#128214; About Me</h1>
