@@ -1,8 +1,13 @@
-<h1>&#128214; About Me</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE !&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20oF!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub !" />
+</p>
+
+<h1>&#128214; About Me</h1>
 <p>
-  Hi, there👋! I'm oF. <br />
-  Welcome to my personal website. <br />
   I'm a senior majoring in ICE. <br />
   I have worked as a full-stack engineer. <br />
   For Andor Ltd. and Getvision Information Ltd. <br />
@@ -33,6 +38,7 @@
   <img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/qmk-333333?logo=qmk&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/illustrator-330000?logo=Adobe%20illustrator&logoColor=white&style=for-the-badge" />
 </span>
 
 <h3>DB</h3>
@@ -56,8 +62,12 @@
 <h2>&#128202; GitHub Stats</h2>
 
 <span>
-  <img src="https://github-profile-trophy.vercel.app/?username=sky9154&theme=nord&row=1" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sky9154&theme=nord&row=1" />
   <br />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide=prs" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sky9154&theme=github-compact&hide_border=true&area=true" />
+  <br />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide_border=true&hide=prs" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=sky9154&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <br />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
 </span>
