@@ -70,4 +70,5 @@
   <img height="150em" src="https://streak-stats.demolab.com?user=sky9154&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=oF&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
 </span>
