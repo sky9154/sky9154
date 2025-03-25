@@ -8,11 +8,11 @@
 
 <h1>&#128214; About Me</h1>
 <p>
-  I'm a senior majoring in ICE. <br />
-  I have worked as a full-stack engineer. <br />
-  For Andor Ltd. and Getvision Information Ltd. <br />
-  With one year or more of work experience. <br />
-  Specialty is web development.
+  I'm currently a first-year Master's student in an <b>Information-related Field</b>.<br />
+  My research focuses on <b>Natural Language Processing (NLP)</b> and <b>Recommender Systems</b>.<br /><br />
+  
+  Previously, I worked as a <b>full-stack engineer</b> at <b>Andor Ltd.</b> and <b>Getvision Information Ltd.</b>,<br />
+  with over a year of hands-on experience in <b>web development</b>.
 </p>
 
 <h2>&#128296; Tech Stack</h2>
