@@ -8,8 +8,8 @@
 
 <h1>&#128214; About Me</h1>
 <p>
-  I'm currently a first-year Master's student in an <b>Information-related Field</b>.<br />
-  My research focuses on <b>Natural Language Processing (NLP)</b> and <b>Recommender Systems</b>.<br /><br />
+  Hi, I'm currently a second-year Master's student in <b>Information Management</b>.<br />
+  My research focuses on <b>Knowledge Graphs</b>, <b>Graph Convolutional Networks (GCN)</b> and <b>Recommender Systems</b>.<br /><br />
   
   Previously, I worked as a <b>full-stack engineer</b> at <b>Andor Ltd.</b> and <b>Getvision Information Ltd.</b>,<br />
   with over a year of hands-on experience in <b>web development</b>.
@@ -34,11 +34,7 @@
 <span>
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/jetbrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/qmk-333333?logo=qmk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/illustrator-330000?logo=Adobe%20illustrator&logoColor=white&style=for-the-badge" />
 </span>
 
 <h3>DB</h3>
@@ -57,18 +53,4 @@
   <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=google%20cloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/godaddy-1BDBDB?logo=godaddy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
-</span>
-
-<h2>&#128202; GitHub Stats</h2>
-
-<span>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sky9154&theme=nord&row=1" />
-  <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sky9154&theme=github-compact&hide_border=true&area=true" />
-  <br />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sky9154&theme=tokyonight&show_icons=true&hide_border=true&hide=prs" />
-  <img height="150em" src="https://streak-stats.demolab.com?user=sky9154&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true" />
-  <br />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=oF&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky9154&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=html,jupyter%20notebook" />
 </span>
