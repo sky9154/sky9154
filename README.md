@@ -1,56 +1,106 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE%20!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20oF%20!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=oF&fontSize=72&fontAlignY=35&animation=twinkling"
+  />
+</p>
+
+<h1 align="center">Hi, I'm oF 👋</h1>
+
+<p align="center">
+  <strong>Full-Stack Engineer · Knowledge Graphs · Language Model Applications</strong>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;" />
+  My work includes full-stack development, knowledge graphs, graph neural networks, recommender systems, and language model applications.
 </p>
 
-<h1>&#128214; About Me</h1>
-<p>
-  Hi, I'm currently a second-year Master's student in <b>Information Management</b>.<br />
-  My research focuses on <b>Knowledge Graphs</b>, <b>Graph Convolutional Networks (GCN)</b> and <b>Recommender Systems</b>.<br /><br />
-  
-  Previously, I worked as a <b>full-stack engineer</b> at <b>Andor Ltd.</b> and <b>Getvision Information Ltd.</b>,<br />
-  with over a year of hands-on experience in <b>web development</b>.
+<p align="center">
+  <a href="https://sky9154.com/">Personal Website</a>
 </p>
 
-<h2>&#128296; Tech Stack</h2>
+## About Me
 
-<h3>Languages</h3>
+I hold a **Master's degree in Information Management** and have over a year of hands-on experience in **full-stack development**.
 
-<span>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-</span>
+My experience spans front-end and back-end development, databases, APIs, real-time communication, IoT integration, and communication between hardware and software.
 
-<h3>Tools</h3>
+I also work on **recommender systems, knowledge graphs, graph neural networks, natural language processing, and deep learning**.
 
-<span>
-  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/qmk-333333?logo=qmk&logoColor=white&style=for-the-badge" />
-</span>
+## Focus Areas
 
-<h3>DB</h3>
+### Full-Stack Development
 
-<span>
-  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/sql%20server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-</span>
+Building web applications across the front end and back end, with databases, APIs, and deployment.
 
-<h3>Others</h3>
+### Knowledge Graphs & Recommender Systems
 
-<span>
-  <img src="https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/codepen-000000?logo=codepen&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=google%20cloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/godaddy-1BDBDB?logo=godaddy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" />
-</span>
+Exploring recommendation methods that combine user preferences and semantic relationships in knowledge graphs.
+
+### Graph Neural Networks
+
+Using graph neural networks to model relationships among users, items, entities, and other structured information.
+
+### Natural Language Processing
+
+Working with semantic representations, sentiment analysis, transformer models, and language model applications.
+
+### Intelligent Systems & IoT
+
+Exploring the integration of machine learning, real-time systems, sensors, embedded devices, and web technologies.
+
+## Technologies & Tools
+
+| Category | Technologies |
+| --- | --- |
+| **Programming Languages** | Python · TypeScript · JavaScript · Java · Go · PHP |
+| **Full-Stack Development** | React · Material UI · Node.js · FastAPI · Django · Spring Boot · Java Servlet |
+| **Databases** | MySQL · Microsoft SQL Server · MongoDB · Neo4j |
+| **Machine Learning & Deep Learning** | PyTorch · PyTorch Geometric · TensorFlow · Transformers · Scikit-learn · MediaPipe · OpenCV |
+| **System Integration** | REST API · WebSocket · MQTT · ESP32 · E-paper |
+| **Infrastructure & Tools** | Git · Docker · Nginx · Google Cloud · Cloudflare · Firebase · Heroku |
+
+## Research Interests
+
+```text
+Recommender Systems
+├── Knowledge Graphs
+├── Dynamic User Preferences
+├── Sentiment & Semantic Analysis
+└── Personalized Recommendation
+
+Graph Machine Learning
+├── Graph Neural Networks
+├── Graph Convolution
+└── Temporal Knowledge Graphs
+
+Natural Language Processing
+├── Semantic Representation
+├── Transformer Models
+└── Language Model Applications
+
+Applied AI
+├── Computer Vision
+├── Temporal Modeling
+└── Intelligent Systems
+```
+
+## Background
+
+- Master's degree in Information Management
+- Bachelor's degree in Information and Communication Engineering
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=sky9154&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sky9154&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
